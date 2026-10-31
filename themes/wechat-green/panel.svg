@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31" height="31" viewBox="0 0 31 31"
+     xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="shadow" x="-25%" y="-25%" width="160%" height="160%">
+      <feDropShadow dx="1.2" dy="1.6" stdDeviation="1.4"
+                    flood-color="#090405" flood-opacity="0.48"/>
+    </filter>
+  </defs>
+  <path
+    d="m 14.75,5.75 h 1.5 c 5.246705,0 9,3.753295 9,9 v 1.5 c 0,5.246705 -3.753295,9 -9,9 h -1.5 c -5.246705,0 -9,-3.753295 -9,-9 v -1.5 c 0,-5.246705 3.753295,-9 9,-9 z"
+    fill="#000000"
+    fill-opacity="0.20"
+    stroke="#07C160CC"
+    stroke-width="1"
+    filter="url(#shadow)"/>
+</svg>
+
