@@ -1,14 +1,15 @@
-# 第三方声明
+# Third-Party Notices
 
-本主题的 SVG 轮廓和 Fcitx5 布局参数参考了 `fcitx5-mellow-themes` 项目中
-`mellow-graphite-dark` 的视觉设计。
+The SVG outlines and Fcitx5 layout parameters of this theme reference the visual design of
+`mellow-graphite-dark` from the `fcitx5-mellow-themes` project.
 
-本地系统中的 `glass-self` 仅作为当前环境的效果参考，它不是
-`fcitx5-mellow-themes` 上游仓库自带主题。
+The `glass-self` theme on the local system is used only as a visual reference for the current environment.
+It is not a theme shipped by the upstream `fcitx5-mellow-themes` repository.
 
-版权所有 (c) 2024, sanweiya
+Copyright (c) 2024, sanweiya
 
-原项目采用 BSD 2-Clause 许可证。为避免改变法律含义，以下许可证原文保留英文：
+The original project is licensed under the BSD 2-Clause License. To preserve the legal meaning,
+the license text below is kept in English:
 
 > Redistribution and use in source and binary forms, with or without
 > modification, are permitted provided that the following conditions are met:
@@ -31,4 +32,3 @@
 > CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
 > ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 > POSSIBILITY OF SUCH DAMAGE.
-

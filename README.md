@@ -1,3 +1,5 @@
+[中文](README.md) | [English](README.en.md)
+
 # 前言
 
 面向 KDE Plasma 6 / KWin Wayland 的 Fcitx5 Classic UI 毛玻璃候选框主题
